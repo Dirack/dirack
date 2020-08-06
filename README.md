@@ -1,7 +1,7 @@
 ### Rodolfo André Cardoso Neves (Dirack) 👋
 
-[Lattes](http://lattes.cnpq.br/1612438665756011)
-[Linkedin](https://www.linkedin.com/in/rodolfodirack/)
+- [Lattes](http://lattes.cnpq.br/1612438665756011)
+- [Linkedin](https://www.linkedin.com/in/rodolfodirack/)
 
 <!--
 **Dirack/dirack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
