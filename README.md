@@ -1,4 +1,9 @@
-### Rodolfo André Cardoso Neves (Dirack) 👋
+
+# Rodolfo André Cardoso Neves (Dirack) 👋
+>Phd's Student with emphasis in Modelling and Inversion of Geophysical Data at Federal University of Pará (UFPA).
+
+<img alt="Gravimetric survey" src="https://github.com/Dirack/dirack/blob/master/capa.jpg" height=400 width=700>
+
 
 - [Lattes](http://lattes.cnpq.br/1612438665756011)
 - [Linkedin](https://www.linkedin.com/in/rodolfodirack/)
