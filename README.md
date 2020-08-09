@@ -5,9 +5,9 @@
 <img alt="Gravimetric survey" src="https://github.com/Dirack/dirack/blob/master/capa.jpg" height=400 width=700>
 
 
-#### ✨ My best contributions:
+#### ✨ My contributions:
 
-  - [Madagascar open-source seismic processing package](https://github.com/ahay/src/tree/master/user/dirack):
+  - [Programs to Madagascar open-source seismic processing package](https://github.com/ahay/src/tree/master/user/dirack):
 The programs _sfvfsacrsnh_ and _sfnhcrssurf_ are C programs adapted to the Madagascar package. 
 The mains objective of these programs is to optimize the zero offset Common Reflection Surface (CRS) parameters, RN, RNIP, BETA 
 that best fits a non-hyperbolic CRS approximation surface with a reflection traveltime surface extracted from a seismic data cube
@@ -15,6 +15,8 @@ that best fits a non-hyperbolic CRS approximation surface with a reflection trav
 achieved using Very Fast Simulated Aneelling (VFSA) global optimization algorithm.
 
 #### 🔭 Projects I'm currently working on:
+
+- [ProSU](https://github.com/gpgeof/proSU): A Shell Script interface to Seismic Unix (SU) package.
 
 #### 😄 How to reach me:
 
