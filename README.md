@@ -1,6 +1,7 @@
 
 # Hi, I'm Rodolfo André Cardoso Neves (Dirack) 👋
-> Phd's Student with emphasis in Modelling and Inversion of Geophysical Data at Federal University of Pará (UFPA).
+> Phd's Student with emphasis in Modelling and Inversion of Geophysical Data at Federal University of Pará (UFPA) (2017-2021).
+> Master's degree, Geophysics (UFPA) (2015-2017). Bachelor's degree, Geophysics (UFPA) (2010-2015)
 
 <img alt="Gravimetric survey" src="https://github.com/Dirack/dirack/blob/master/capa.jpg" height=400 width=700>
 
