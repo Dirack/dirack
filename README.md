@@ -5,6 +5,8 @@
 
 <img alt="Gravimetric survey" src="https://github.com/Dirack/dirack/blob/master/capa.jpg" height=400 width=700>
 
+###### Image: Working as a Staff Geophysicist on a gravimetric survey of GPR Geophysics Ltda (2014).
+
 
 #### ✨ My contributions:
 
