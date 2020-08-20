@@ -20,6 +20,7 @@ achieved using Very Fast Simulated Aneelling (VFSA) global optimization algorith
 #### 🔭 Projects I'm currently working on:
 
 - [ProSU](https://github.com/gpgeof/proSU): A Shell Script interface to Seismic Unix (SU) package.
+- [Madagascar Recipes](https://github.com/Dirack/madagascarRecipes): Computational recipes to seismic processing with Madagascar package.
 
 #### 😄 How to reach me:
 
