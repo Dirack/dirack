@@ -18,7 +18,8 @@ that best fits a non-hyperbolic CRS approximation surface with a reflection trav
 achieved using Very Fast Simulated Aneelling (VFSA) global optimization algorithm.
 
 - [Madagascar Recipes](https://github.com/ahay/src/tree/master/book/dirack/examples/modelAndStack)
-New Madagascar computational recipes kimodel.py and velocistyAnalysis.py
+New Madagascar computational recipes [kimodel.py](https://github.com/ahay/src/blob/master/book/Recipes/kimodel.py)
+ and velocityAnalysis.py
  
 #### 🔭 Projects I'm currently working on:
 
