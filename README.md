@@ -17,14 +17,13 @@ that best fits a non-hyperbolic CRS approximation surface with a reflection trav
 (seismic data organized in CMP x Offset X Time coordinates). The result of that parameters optmization is used in CRS stack and is
 achieved using Very Fast Simulated Aneelling (VFSA) global optimization algorithm.
 
-- New Madagascar Computational Recipes:
-[kimodel.py](https://github.com/ahay/src/blob/master/book/Recipes/kimodel.py), to generate a multi-layer model and apply Kirchhoff-Newton modeling on it,
- and [velocityAnalysis.py](https://github.com/ahay/src/blob/master/book/Recipes/velocityAnalysis.py), to do velocity Analysis, automatic picking,
- NMO correction and stack.
+- [New Madagascar Computational Recipes](https://github.com/ahay/src/tree/master/book/dirack/examples/modelAndStack):
+    - [kimodel.py](https://github.com/ahay/src/blob/master/book/Recipes/kimodel.py), 
+    to generate a multi-layer model and apply Kirchhoff-Newton modeling on it.
+    - [velocityAnalysis.py](https://github.com/ahay/src/blob/master/book/Recipes/velocityAnalysis.py),
+    to do velocity Analysis, automatic picking, NMO correction and stack.
  
- **A "computational recipe" is a python
- script that defines functions to facilitate seismic processing steps with Madagascar package. Those recipes have a
-[SConstruct](https://github.com/ahay/src/blob/master/book/dirack/examples/modelAndStack/SConstruct) usage example available**
+###### A "computational recipe" is a python script that defines functions to facilitate seismic processing steps with Madagascar package.
  
 #### 🔭 Projects I'm currently working on:
 
