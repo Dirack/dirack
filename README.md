@@ -17,6 +17,9 @@ that best fits a non-hyperbolic CRS approximation surface with a reflection trav
 (seismic data organized in CMP x Offset X Time coordinates). The result of that parameters optmization is used in CRS stack and is
 achieved using Very Fast Simulated Aneelling (VFSA) global optimization algorithm.
 
+- [Madagascar Recipes](https://github.com/ahay/src/tree/master/book/dirack/examples/modelAndStack)
+New Madagascar computational recipes kimodel.py and velocistyAnalysis.py
+ 
 #### 🔭 Projects I'm currently working on:
 
 - [ProSU](https://github.com/gpgeof/proSU): A Shell Script interface to Seismic Unix (SU) package.
