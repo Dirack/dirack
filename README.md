@@ -31,7 +31,7 @@ achieved using Very Fast Simulated Aneelling (VFSA) global optimization algorith
 - [ProSU](https://github.com/gpgeof/proSU): A Shell Script interface to Seismic Unix (SU) package.
 - [Madagascar Recipes](https://github.com/Dirack/madagascarRecipes): Computational recipes to seismic processing with Madagascar package.
 - [creVelocityInversion](https://github.com/Dirack/creVelocityInversion): Velocity inversion algorithm using Common Reflection Element (CRE) traveltime approximation.
-- [diffractionSimulator]():
+- [diffractionSimulator](https://github.com/Dirack/diffractionSimulator): SConscripts to simulate diffraction hyperbolas in the stacked section.
 
 #### 😄 How to reach me:
 
