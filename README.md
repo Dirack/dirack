@@ -12,10 +12,10 @@
 
   - [Programs to Madagascar open-source seismic processing package](https://github.com/ahay/src/tree/master/user/dirack):
 The programs _sfvfsacrsnh_ and _sfnhcrssurf_ are C programs adapted to the Madagascar package. 
-The mains objective of these programs is to optimize the zero offset Common Reflection Surface (CRS) parameters, RN, RNIP, BETA 
+The main objective of these programs is to optimize the zero offset Common Reflection Surface (CRS) parameters, RN, RNIP, BETA 
 that best fits a non-hyperbolic CRS approximation surface with a reflection traveltime surface extracted from a seismic data cube
-(seismic data organized in CMP x Offset X Time coordinates). The result of that parameters optmization is used in CRS stack and is
-achieved using Very Fast Simulated Aneelling (VFSA) global optimization algorithm.
+(seismic data organized in CMP x Offset X Time coordinates). The result of that parameters optmization is used in CRS stack.
+The parameters optmization is achieved using Very Fast Simulated Aneelling (VFSA) global optimization algorithm.
 
 - [New Madagascar Computational Recipes](https://github.com/ahay/src/tree/master/book/dirack/examples/modelAndStack):
     - [kimodel.py](https://github.com/ahay/src/blob/master/book/Recipes/kimodel.py), 
