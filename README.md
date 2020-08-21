@@ -19,7 +19,8 @@ achieved using Very Fast Simulated Aneelling (VFSA) global optimization algorith
 
 - [Madagascar Recipes](https://github.com/ahay/src/tree/master/book/dirack/examples/modelAndStack)
 New Madagascar computational recipes [kimodel.py](https://github.com/ahay/src/blob/master/book/Recipes/kimodel.py)
- and velocityAnalysis.py
+ and [velocityAnalysis.py](https://github.com/ahay/src/blob/master/book/Recipes/velocityAnalysis.py)
+with SConstruct usage example available.
  
 #### 🔭 Projects I'm currently working on:
 
