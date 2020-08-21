@@ -17,16 +17,21 @@ that best fits a non-hyperbolic CRS approximation surface with a reflection trav
 (seismic data organized in CMP x Offset X Time coordinates). The result of that parameters optmization is used in CRS stack and is
 achieved using Very Fast Simulated Aneelling (VFSA) global optimization algorithm.
 
-- [Madagascar Recipes](https://github.com/ahay/src/tree/master/book/dirack/examples/modelAndStack)
-New Madagascar computational recipes [kimodel.py](https://github.com/ahay/src/blob/master/book/Recipes/kimodel.py)
- and [velocityAnalysis.py](https://github.com/ahay/src/blob/master/book/Recipes/velocityAnalysis.py)
-with SConstruct usage example available.
+- New Madagascar Computational Recipes:
+[kimodel.py](https://github.com/ahay/src/blob/master/book/Recipes/kimodel.py), to generate a multi-layer model and apply Kirchhoff-Newton modeling on it,
+ and [velocityAnalysis.py](https://github.com/ahay/src/blob/master/book/Recipes/velocityAnalysis.py), to do velocity Analysis, automatic picking,
+ NMO correction and stack.
+ 
+ **A "computational recipe" is a python
+ script that defines functions to facilitate seismic processing steps with Madagascar package. Those recipes have a
+[SConstruct](https://github.com/ahay/src/blob/master/book/dirack/examples/modelAndStack/SConstruct) usage example available**
  
 #### 🔭 Projects I'm currently working on:
 
 - [ProSU](https://github.com/gpgeof/proSU): A Shell Script interface to Seismic Unix (SU) package.
 - [Madagascar Recipes](https://github.com/Dirack/madagascarRecipes): Computational recipes to seismic processing with Madagascar package.
 - [creVelocityInversion](https://github.com/Dirack/creVelocityInversion): Velocity inversion algorithm using Common Reflection Element (CRE) traveltime approximation.
+- [diffractionSimulator]():
 
 #### 😄 How to reach me:
 
