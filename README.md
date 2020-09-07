@@ -22,7 +22,9 @@ The parameters optmization is achieved using Very Fast Simulated Aneelling (VFSA
     to generate a multi-layer model and apply Kirchhoff-Newton modeling on it.
     - [velocityAnalysis.py](https://github.com/ahay/src/blob/master/book/Recipes/velocityAnalysis.py),
     to do velocity Analysis, automatic picking, NMO correction and stack.
- 
+    -[pefInterpolation.py](https://github.com/ahay/src/blob/master/book/Recipes/pefInterpolation.py),
+    to increase CMP data sampling with Predictive Adaptative Error Filters (PEF) interpolation.
+
 ###### A "computational recipe" is a python script that defines functions to facilitate seismic processing steps with Madagascar package.
  
 #### 🔭 Projects I'm currently working on:
