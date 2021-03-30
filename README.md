@@ -33,6 +33,7 @@ The parameters optmization is achieved using Very Fast Simulated Aneelling (VFSA
 - [creGatherStack](https://github.com/Dirack/creGatherStack): Common Reflection Element (CRE) Gather stacking.
 - [creVelocityInversion](https://github.com/Dirack/creVelocityInversion): Velocity inversion algorithm using Common Reflection Element (CRE) traveltime approximation.
 - [diffractionSimulator](https://github.com/Dirack/diffractionSimulator): SConscripts to simulate diffraction hyperbolas in the stacked section.
+- [shellUnity](https://github.com/Dirack/shellUnity): Unity test framework for Shell Script (Portuguese).
 
 #### 😄 How to reach me:
 
