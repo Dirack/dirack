@@ -7,6 +7,8 @@
 
 ###### Image: Working as a Staff Geophysicist on a gravimetric survey of GPR Geophysics Ltda (2014).
 
+###  Member of Madagascar Developers team since 20/08/2021
+> Madagascar: Open-Source Software Package for Multidimensional Data Analysis
 
 #### ✨ My contributions:
 
@@ -30,6 +32,8 @@
     to do velocity Analysis, automatic picking, NMO correction and stack.
     - [pefInterpolation.py](https://github.com/ahay/src/blob/master/book/Recipes/pefInterpolation.py),
     to increase CMP data sampling with Predictive Adaptative Error Filters (PEF) interpolation.
+    - [creGatherStack.py](https://github.com/ahay/src/blob/master/book/Recipes/creGatherStack.py),
+    to do CRE stacking.
 
 ###### A "computational recipe" is a python script that defines functions to facilitate seismic processing steps with Madagascar package.
  
