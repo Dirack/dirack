@@ -10,11 +10,9 @@
 
 ## Professional experience:
 
-- **Staff Geophysicist on a gravimetric survey of GPR Geophysics Ltda. From July to December of 2014. São Paulo, Brazil:** As GPR Geophysics employee, I've worked on Agência Nacional de Águas (ANA) gravimetric survey for aquifer prospecting on karst relief. I was responsible for gravimetric data acquisition, data correction, and Bouguer anomaly maps construction.
+- **Staff Geophysicist on a gravimetric survey of GPR Geophysics Ltda. From July to December of 2014. São Paulo, São Paulo, Brazil:** As GPR Geophysics employee, I've worked on Agência Nacional de Águas (ANA) gravimetric survey for aquifer prospecting on karst relief. I was responsible for gravimetric data acquisition, data correction, and Bouguer anomaly maps construction.
 
-- Internship - gravimetric survey of UNIFAP/UFPA/CNPQ/ANP Research project. From November to December of 2013. Macapá, Brazil.
-
-ESTÁGIO11/2013 para 12/2013UNIFAP/UFPA/CNPQ/ANP | Macapá, AmapáFuiEstagiário no projeto conjunto UNIFAP/UFPA/CNPQ/ANP demétodos potenciais. Realizamos levantamentos gravimétrico emagnético ao longo rio Araguarí, Macapá-AP, com o objetivo dedelinear o relevo do embasamento naquela área
+- **Internship - Gravimetric survey of UNIFAP/UFPA/CNPQ/ANP Research project. From November to December of 2013. Macapá, Amapá, Brazil:** As a member of the UNIFAP/UFPA/CNPQ/ANP research project for potential fields I've worked in gravimetric and magnetic data acquisition along Araguarí river, with the purpose of obtain the basement relief in that area.
 
 ## Youtuber - Programming teacher
 
