@@ -7,7 +7,24 @@
 
 ###### Image: Working as a Staff Geophysicist on a gravimetric survey of GPR Geophysics Ltda (2014).
 
-###  Member of the Madagascar Developers team since 20/08/2021
+
+## Professional experience:
+
+- Staff Geophysicist on a gravimetric survey of GPR Geophysics Ltda. From July to December of 2014. São Paulo, Brazil.
+Como funcionário da empresa GPR-geofísica, eu participei dolevantamentogravimétrico contratado pela Agência Nacional deÁguas (ANA) com o objetivo de prospecção de aquíferos emrelevo   cárstico.   Fiquei   responsável   pela   condução   dolevantamento gravimétrico, aplicação de correções de campo eelaboração de mapas de anomalia Bouguer.
+- Internship - gravimetric survey of UNIFAP/UFPA/CNPQ/ANP Research project. From November to December of 2013. Macapá, Brazil.
+
+ESTÁGIO11/2013 para 12/2013UNIFAP/UFPA/CNPQ/ANP | Macapá, AmapáFuiEstagiário no projeto conjunto UNIFAP/UFPA/CNPQ/ANP demétodos potenciais. Realizamos levantamentos gravimétrico emagnético ao longo rio Araguarí, Macapá-AP, com o objetivo dedelinear o relevo do embasamento naquela área
+
+## Youtuber - Programming teacher
+
+I teach computer programming on my Youtube chanel, [Geofisicando](https://www.youtube.com/channel/UCi5XD5PCQtPrIRD0H_GJvag) (portuguese material). We teach
+several programming languages, such as C, Fortran, Shell Script, Python and others. Please subscribe and share!
+
+Some of our courses have digital certificate available on Workover Academy platform (our partner with several online courses). Please check it out on
+that following video: [Como conseguir o seu primeiro emprego como programador? A nova parceria do canal pode te ajudar!](https://www.youtube.com/watch?v=5neZRO3yvDI)
+
+##  Member of the Madagascar Developers team since 20/08/2021
 > Madagascar Developer: Madagascar is an Open-Source Software Package for Multidimensional Data Analysis and seismic processing
 
 #### ✨ My contributions:
@@ -34,12 +51,6 @@
     to do CRE stacking.
 
 ###### A "computational recipe" is a python script that defines functions to facilitate seismic processing steps with Madagascar package.
-
-## Professional experience:
-
-- Staff Geophysicist on a gravimetric survey of GPR Geophysics Ltda. From July to December of 2014. São Paulo, Brazil.
-
-- Internship - gravimetric survey of UNIFAP/UFPA/CNPQ/ANP Research project. From November to December of 2013. Macapá, Brazil.
 
 #### 🔭 Projects I'm currently working on:
 
