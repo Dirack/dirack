@@ -23,8 +23,6 @@
     - **sfgetcregather:** Build CRE gather given CMP X Offset CRE trajectory coordinates and interpolated data cube- 
     - **sfgetcretimecurve:** Calculate CRE traveltime curve t(m,h) given CRS zero-offset parameters (RN, RNIP, BETA)
 
-
-
 - New Madagascar Computational Recipes:
     - [kimodel.py](https://github.com/ahay/src/blob/master/book/Recipes/kimodel.py), 
     to generate a multi-layer model and apply Kirchhoff-Newton modeling on it.
@@ -36,7 +34,13 @@
     to do CRE stacking.
 
 ###### A "computational recipe" is a python script that defines functions to facilitate seismic processing steps with Madagascar package.
- 
+
+## Professional experience:
+
+- Staff Geophysicist on a gravimetric survey of GPR Geophysics Ltda. From July to December of 2014. São Paulo, Brazil.
+
+- Internship - gravimetric survey of UNIFAP/UFPA/CNPQ/ANP Research project. From November to December of 2013. Macapá, Brazil.
+
 #### 🔭 Projects I'm currently working on:
 
 - [ProSU](https://github.com/gpgeof/proSU): A Shell Script interface to Seismic Unix (SU) package.
