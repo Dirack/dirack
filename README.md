@@ -8,7 +8,7 @@
 ###### Image: Working as a Staff Geophysicist on a gravimetric survey of GPR Geophysics Ltda (2014).
 
 ###  Member of the Madagascar Developers team since 20/08/2021
-> Madagascar: Open-Source Software Package for Multidimensional Data Analysis
+> Developer of Madagascar: Open-Source Software Package for Multidimensional Data Analysis
 
 #### ✨ My contributions:
 
