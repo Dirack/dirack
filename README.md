@@ -8,7 +8,7 @@
 ###### Image: Working as a Staff Geophysicist on a gravimetric survey of GPR Geophysics Ltda (2014).
 
 
-## Profissional experience:
+## Professional experience:
 
 - **Staff Geophysicist on a gravimetric survey of GPR Geophysics Ltda. From July to December of 2014. São Paulo, São Paulo, Brazil:** As GPR Geophysics employee, I've worked on Agência Nacional de Águas (ANA) gravimetric survey for aquifer prospecting on karst relief. I was responsible for gravimetric data acquisition, data correction, and Bouguer anomaly maps construction.
 
