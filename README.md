@@ -1,7 +1,12 @@
 
 # Hi, I'm Rodolfo André Cardoso Neves (Dirack) 👋
-> Phd's Student with emphasis in Modelling and Inversion of Geophysical Data at Federal University of Pará (UFPA) (2017-2021).
-> Master's degree, Geophysics (UFPA) (2015-2017). Bachelor's degree, Geophysics (UFPA) (2010-2015)
+
+> Brazilian, 31 years old. Developer and PhD student with an emphasis on modeling and inversion of geophysical data at
+> the Federal University of Pará (UFPA) (2021). Master's degree in geophysics (UFPA) (2015-2017).
+> Bachelor's degree in geophysics (UFPA) (2010-2015). Contributor of Madagascar, an open-source
+> seismic processing package, member of the Madagascar development team. Background
+> experience in front-end web development with NodeJS, ReactJS and TypeScript, Eclipse RCP plugins with Java, C
+> and Python development skills. Programming teacher and YouTuber.
 
 <img alt="Gravimetric survey" src="https://github.com/Dirack/dirack/blob/master/capa.jpg" height=400 width=700>
 
@@ -9,6 +14,21 @@
 
 
 ## Professional experience:
+
+- **Freelance Web developer and geophysicist. Since May of 2023:**
+I am a software developer with experience in Java and Python for desktop applications, plugins development, and web development with JavaScript, HTML/CSS, NodeJS, Bootstrap and PHP. Currently, I'm working as a freelancer.
+
+- **Developer and Geophysicist Junior at Invision Geophysics. From March of 2022 to May of 2023. Rio de janeiro, Brazil:**
+As a developer at Invision Geophysics, I have participated in the development of the Microseismic
+Monitoring System M2S. I was responsible for the development of a REST API, to simulate the receivers
+and servers responses to a dashboard, which I also developed with the orientation of senior
+programmers from the company team. I have used modern web development technologies, such as
+NodeJS, TypeScript, HTML/CSS, JavaScript and Bootstrap 4. I have also participated in the development
+of a plugin for Halliburton's application, Decision Space Geoscience (DSG). This plugin is an Eclipe RCP
+plugin, implemented in Java. Its purpose is to export seismic horizons, geoshapes and sections using the
+google Protobuf format for data serialization. By the end, I had also participated in the development of a
+geopressure calculator for Petrobrás. It was built using the Python language, plugin architecture, and the
+core of an open source project for well log visualization called Gripy.
 
 - **Staff Geophysicist on a gravimetric survey of GPR Geophysics Ltda. From July to December of 2014. São Paulo, São Paulo, Brazil:** As GPR Geophysics employee, I've worked on Agência Nacional de Águas (ANA) gravimetric survey for aquifer prospecting on karst relief. I was responsible for gravimetric data acquisition, data correction, and Bouguer anomaly maps construction.
 
