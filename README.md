@@ -34,6 +34,11 @@ core of an open source project for well log visualization called Gripy.
 
 - **Internship - Gravimetric survey of UNIFAP/UFPA/CNPQ/ANP Research project. From November to December of 2013. Macapá, Amapá, Brazil:** As a member of the UNIFAP/UFPA/CNPQ/ANP research project for potential fields I've worked in gravimetric and magnetic data acquisition along Araguarí river, with the purpose of obtain the basement relief in that area.
 
+## Please check out my portfolio
+
+ - [As a computational geophysicist and contributor of the Madagascar developers team](https://l1nk.dev/Az8Pg)
+ - [As a front-end web developer](https://github.com/Dirack-web-development)
+
 ## Youtuber - Programming teacher
 
 I teach computer programming on my Youtube chanel, [Geofisicando](https://www.youtube.com/channel/UCi5XD5PCQtPrIRD0H_GJvag) (portuguese material). We teach
