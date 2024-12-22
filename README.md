@@ -65,7 +65,7 @@ in gravimetric and magnetic data acquisition along Araguarí river, with the pur
 
 ## Please check out my portfolio
 
- - [As a computational geophysicist and contributor of the Madagascar developers team](https://l1nk.dev/Az8Pg)
+ - [As a computational geophysicist and contributor of the Madagascar developers team](https://www.linkedin.com/pulse/my-portfolio-contributor-madagascar-developers-team-cardoso-neves/?trackingId=9XhrKVBTQq%2BlJmwMgEd%2FxA%3D%3D)
  - [As a front-end web developer](https://github.com/Dirack-web-development)
 
 ## Youtuber - Programming teacher
