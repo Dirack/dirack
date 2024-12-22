@@ -1,7 +1,7 @@
 
 # Hi, I'm Rodolfo André Cardoso Neves (Dirack) 👋
 
-> Brazilian, 31 years old. Developer and PhD student with an emphasis on modeling and inversion of geophysical data at
+> Brazilian, 32 years old. Developer and PhD student with an emphasis on modeling and inversion of geophysical data at
 > the Federal University of Pará (UFPA) (2021). Master's degree in geophysics (UFPA) (2015-2017).
 > Bachelor's degree in geophysics (UFPA) (2010-2015). Contributor of Madagascar, an open-source
 > seismic processing package, member of the Madagascar development team. Background
@@ -15,10 +15,23 @@
 
 ## Professional experience:
 
-- **Freelance Web developer and geophysicist. Since May of 2023:**
-I am a software developer with experience in Java and Python for desktop applications, plugins development, and web development with JavaScript, HTML/CSS, NodeJS, Bootstrap and PHP. Currently, I'm working as a freelancer.
 
-- **Developer and Geophysicist Junior at Invision Geophysics. From March of 2022 to May of 2023. Rio de janeiro, Brazil:**
+- **Geophysicist and Python/C++/NodeJS/ReactJS/NextJS developer. Since April 2024. Rio de janeiro, Rio de Janeiro, Brazil:**
+As a developer at Eliis, I am participating in the development of the PaleoScan DataSystem,
+a web application for metadata extraction and visualization from PaleoScan, a seismic interpretation software.
+I am using several modern web development technologies, such as Python Flask library for REST API development,
+ReactJS and NextJS JavaScript frameworks for frontend development. This application is an on going project.
+
+- **Freelance Web developer and geophysicist. From May of 2023 to April 2023. Belém, Pará, Brazil:**
+I have worked as a freelancer full stack developer using JavaScript, HTML/CSS, NodeJS, ReactJS, NextJS, Bootstrap and PHP. 
+I am also a contributor of Madagascar, an open-source seismic processing package, with several contributions using C and Python.
+
+- **Geophysicist and Shell Script/Python developer at SENAI CIMATEC. From September 2023 to November 2023. Salvador, Bahia, Brazil:**
+As a developer at SENAI/CIMATEC, I have participated in the development and maintenance of Shell Script and Python libraries
+for SEPLib Package in order to build a command line interface for an Elastic Full Waveform Inversion
+application to be available for the oil industry.
+
+- **Developer and Geophysicist Junior at Invision Geophysics. From March of 2022 to May of 2023. Rio de janeiro, Rio de Janeiro, Brazil:**
 As a developer at Invision Geophysics, I have participated in the development of the Microseismic
 Monitoring System M2S. I was responsible for the development of a REST API, to simulate the receivers
 and servers responses to a dashboard, which I also developed with the orientation of senior
