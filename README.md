@@ -16,7 +16,7 @@
 ## Professional experience:
 
 
-- **Geophysicist and Python/C++/NodeJS/ReactJS/NextJS developer. Since April 2024. Rio de janeiro, Rio de Janeiro, Brazil:**
+- **Geophysicist and Python/C++/NodeJS/ReactJS/NextJS developer at Eliis. Since April 2024. Rio de janeiro, Rio de Janeiro, Brazil:**
 As a developer at Eliis, I am participating in the development of the PaleoScan DataSystem,
 a web application for metadata extraction and visualization from PaleoScan, a seismic interpretation software.
 I am using several modern web development technologies, such as Python Flask library for REST API development,
