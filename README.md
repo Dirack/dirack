@@ -16,22 +16,30 @@
 ## Professional experience:
 
 
-- **Geophysicist and Python/C++/NodeJS/ReactJS/NextJS developer at Eliis. Since April 2024. Rio de janeiro, Rio de Janeiro, Brazil:**
+**Geophysicist and Python/C++/NodeJS/ReactJS/NextJS developer at Eliis.**
+> Since April 2024. Rio de janeiro, Rio de Janeiro, Brazil
+
 As a developer at Eliis, I am participating in the development of the PaleoScan DataSystem,
 a web application for metadata extraction and visualization from PaleoScan, a seismic interpretation software.
 I am using several modern web development technologies, such as Python Flask library for REST API development,
 ReactJS and NextJS JavaScript frameworks for frontend development. This application is an on going project.
 
-- **Freelance Web developer and geophysicist. From May of 2023 to April 2023. Belém, Pará, Brazil:**
+**Freelance Web developer and geophysicist.**
+> From May of 2023 to April 2023. Belém, Pará, Brazil
+
 I have worked as a freelancer full stack developer using JavaScript, HTML/CSS, NodeJS, ReactJS, NextJS, Bootstrap and PHP. 
 I am also a contributor of Madagascar, an open-source seismic processing package, with several contributions using C and Python.
 
-- **Geophysicist and Shell Script/Python developer at SENAI CIMATEC. From September 2023 to November 2023. Salvador, Bahia, Brazil:**
+**Geophysicist and Shell Script/Python developer at SENAI CIMATEC.**
+> From September 2023 to November 2023. Salvador, Bahia, Brazil
+
 As a developer at SENAI/CIMATEC, I have participated in the development and maintenance of Shell Script and Python libraries
 for SEPLib Package in order to build a command line interface for an Elastic Full Waveform Inversion
 application to be available for the oil industry.
 
-- **Developer and Geophysicist Junior at Invision Geophysics. From March of 2022 to May of 2023. Rio de janeiro, Rio de Janeiro, Brazil:**
+**Developer and Geophysicist Junior at Invision Geophysics.**
+> From March of 2022 to May of 2023. Rio de janeiro, Rio de Janeiro, Brazil
+
 As a developer at Invision Geophysics, I have participated in the development of the Microseismic
 Monitoring System M2S. I was responsible for the development of a REST API, to simulate the receivers
 and servers responses to a dashboard, which I also developed with the orientation of senior
@@ -43,9 +51,17 @@ google Protobuf format for data serialization. By the end, I had also participat
 geopressure calculator for Petrobrás. It was built using the Python language, plugin architecture, and the
 core of an open source project for well log visualization called Gripy.
 
-- **Staff Geophysicist on a gravimetric survey of GPR Geophysics Ltda. From July to December of 2014. São Paulo, São Paulo, Brazil:** As GPR Geophysics employee, I've worked on Agência Nacional de Águas (ANA) gravimetric survey for aquifer prospecting on karst relief. I was responsible for gravimetric data acquisition, data correction, and Bouguer anomaly maps construction.
+**Staff Geophysicist on a gravimetric survey of GPR Geophysics Ltda.**
+> From July to December of 2014. São Paulo, São Paulo, Brazil
 
-- **Internship - Gravimetric survey of UNIFAP/UFPA/CNPQ/ANP Research project. From November to December of 2013. Macapá, Amapá, Brazil:** As a member of the UNIFAP/UFPA/CNPQ/ANP research project for potential fields I've worked in gravimetric and magnetic data acquisition along Araguarí river, with the purpose of obtain the basement relief in that area.
+As GPR Geophysics employee, I've worked on Agência Nacional de Águas (ANA) gravimetric survey for aquifer prospecting on karst relief.
+I was responsible for gravimetric data acquisition, data correction, and Bouguer anomaly maps construction.
+
+**Internship - Gravimetric survey of UNIFAP/UFPA/CNPQ/ANP Research project.**
+> From November to December of 2013. Macapá, Amapá, Brazil
+
+As a member of the UNIFAP/UFPA/CNPQ/ANP research project for potential fields I've worked
+in gravimetric and magnetic data acquisition along Araguarí river, with the purpose of obtain the basement relief in that area.
 
 ## Please check out my portfolio
 
