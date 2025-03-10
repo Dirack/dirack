@@ -1,8 +1,8 @@
 
 # Hi, I'm Rodolfo André Cardoso Neves (Dirack) 👋
 
-> Brazilian, 32 years old. Developer and PhD student with an emphasis on modeling and inversion of geophysical data at
-> the Federal University of Pará (UFPA) (2021). Master's degree in geophysics (UFPA) (2015-2017).
+> Brazilian, 33 years old. Geophysicist and Developer at Eliis.
+> Master's degree in geophysics (UFPA) (2015-2017).
 > Bachelor's degree in geophysics (UFPA) (2010-2015). Contributor of Madagascar, an open-source
 > seismic processing package, member of the Madagascar development team. Background
 > experience in front-end web development with NodeJS, ReactJS and TypeScript, Eclipse RCP plugins with Java, C
